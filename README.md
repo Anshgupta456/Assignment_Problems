@@ -1,0 +1,1 @@
+This repository contains code of basic programming problems given by HYPERVERGE ACADEMY for the assignment.
